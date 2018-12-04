@@ -16,6 +16,8 @@ Basic Commands
 -$git clone (copies a remote repository into a new directory)
 
 
+
+
 My Steps
 1. Install Git and make a github if you haven't
 ex) https://git-scm.com/downloads
@@ -34,6 +36,4 @@ Git pull Merges all the files
 *Whenever there is a bug do what it tells you do or look it up
 git bash is a thing
 
-Hey Github isn't that bad!
-
-Images with steps
+Actually github is kinda slow like this
