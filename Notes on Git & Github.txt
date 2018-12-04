@@ -1,0 +1,40 @@
+https://youtu.be/SWYqp7iY_Tc?t=439
+https://github.com/bren007pie/Eclipse
+
+Git & Github Crash Course for Beginners
+-usually have a local repository on your machine then transfer to a remote repository (github)
+- can "push" your local repository to the remote repository
+- snapshot of files using commits, can stage files before committing with "add" command
+- others can "pull" onto their machine
+Basic Commands
+-$git init (initialize local repository, create a .git folder hidden by default)
+-$git add <file> (adds file to staging area before commiting, as many times before)
+-$git status (see what's in the staging area, shows differences between working tree and staging area)
+-$git commit (buts everything in staging area into local repository)
+-$git push (pushes local repository to remote one, will have to authenticate or can add ssh so don't have to do that)
+-$git pull (gets the latest changes from a remote repository 
+-$git clone (copies a remote repository into a new directory)
+
+
+
+
+My Steps
+1. Install Git and make a github if you haven't
+ex) https://git-scm.com/downloads
+2. Clone repository (downloads files to local repository, doesn't make new repository or fork)
+ex)
+git clone https://github.com/MACRocketry/IllBeMachMasterCode.git
+3. Git push (did you mean git pull?) 
+downloading current version off github repository to your local one 
+5. Make changes
+6. git commit -a -m "Message for file changes"
+ the -a is to commit all files, -m for message
+6. Git push 
+Okay for some reason this uploads changes and comits them
+Git pull Merges all the files
+7. Repeat 3-6 every time you do something
+*Whenever there is a bug do what it tells you do or look it up
+git bash is a thing
+
+
+Images with steps
