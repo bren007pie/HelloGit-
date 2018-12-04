@@ -36,4 +36,4 @@ Git pull Merges all the files
 *Whenever there is a bug do what it tells you do or look it up
 git bash is a thing
 
-Actually github is kinda slow like this
+Man dogs are actually the best!
